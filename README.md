@@ -1,3 +1,5 @@
+https://cdn.discordapp.com/attachments/852670307327803402/860278358650519572/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f677265657469.gif
+
 <h1 align="center">Hi 👋, I'm Synapi9999</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synapi9999&label=Views&color=0e75b6&style=flat-square" alt="synapi9999" /> </p>
 
