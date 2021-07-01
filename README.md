@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/synapi__" target="blank"><img src="https://img.shields.io/twitter/follow/synapi__?logo=twitter&style=for-the-badge" alt="synapi__" /></a> </p>
 
-- • 🔭 I’m currently working on **𝗛𝗶𝗱𝗱𝗲𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁**
+-  🔭 I’m currently working on **𝗛𝗶𝗱𝗱𝗲𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁**
 
-- • ⚡ Fun fact: **i love hentai :oups:**
+-  ⚡ Fun fact: **i love hentai :oups:**
 
-- • 🌱 I’m currently learning **𝗣𝘆𝘁𝗵𝗼𝗻, 𝗖++, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 𝗮𝗻𝗱 𝗛𝗧𝗠𝗟**
+-  🌱 I’m currently learning **𝗣𝘆𝘁𝗵𝗼𝗻, 𝗖++, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 𝗮𝗻𝗱 𝗛𝗧𝗠𝗟**
 
-- • 👯 I’m looking to collaborate on **𝗢𝗽𝗲𝗻𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀**
+-  👯 I’m looking to collaborate on **𝗢𝗽𝗲𝗻𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
