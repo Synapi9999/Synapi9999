@@ -27,7 +27,9 @@
 <h3 align="left">Support me guys:</h3>
 <p><a href="https://www.buymeacoffee.com/synapi9999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="synapi9999" /></a></p><br><br>
 
-<h3 align="left">Github Full Stats</h3>
+
+
+<h3 align="left">Github Full Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synapi9999&show_icons=true&theme=dracula&title_color=ff0000&text_color=ff0000&hide_border=true&locale=en&layout=compact" alt="synapi9999" /></p>
 
