@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Synapi9999</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synapi9999&label=Views&color=0e75b6&style=flat-square" alt="synapi9999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=synapi9999" alt="synapi9999" /></a> </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 <p align="left"> <a href="https://twitter.com/synapi__" target="blank"><img src="https://img.shields.io/twitter/follow/synapi__?logo=twitter&style=for-the-badge" alt="synapi__" /></a> </p>
 
