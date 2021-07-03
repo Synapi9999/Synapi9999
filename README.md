@@ -35,3 +35,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=synapi9999&show_icons=true&theme=dracula&title_color=ff0000&text_color=ff0000&hide_border=true&locale=en&layout=compact" alt="synapi9999" /></p>
 
+<p>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Synapi9999&show_icons=true)</p>
+
