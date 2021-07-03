@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **𝗢𝗽𝗲𝗻𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀**
 
-<h3 align="left"> Connect with me <img src='https://user-images.githubusercontent.com/86662420/124364439-e6e9d080-dc41-11eb-9db7-aba90f7fb396.jpg' width="58px"> </h3>
+<h3 align="left"> Connect with me <img src='https://user-images.githubusercontent.com/86662420/124364439-e6e9d080-dc41-11eb-9db7-aba90f7fb396.jpg' width="32px"> </h3>
 <p align="left">
 <a href="https://codepen.io/synapi6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="synapi6666" height="30" width="40" /></a>
 <a href="https://twitter.com/synapi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="synapi__" height="30" width="40" /></a>
