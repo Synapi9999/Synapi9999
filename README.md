@@ -5,7 +5,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Synapi9999.Synapi9999)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=synapi9999&label=Views&color=0e75b6&style=flat-square" alt="synapi9999" /> </p>
 
 </p>
 <div size='20px'> Hi! My name is Synapi. Thank You for taking the time to view my GitHub Profile :smile: 
